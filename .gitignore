@@ -59,3 +59,12 @@ errored.tfstate*
 *.lock.hcl
 
 *env/* *.vscode/* *venv/*
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
